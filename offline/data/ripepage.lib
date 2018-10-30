@@ -1,0 +1,2670 @@
+<doc>
+  <docid>1</docid>
+  <title>EmEditor 16.1.3 简体中文便携版 - 强大文本编辑器</title>
+  <link>http://www.portablesoft.org/emeditor-pro/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>2</docid>
+  <title>强大图片素描化工具 - FotoSketcher 3.20 绿色免安装版</title>
+  <link>http://www.portablesoft.org/fotosketcher/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>3</docid>
+  <title>Win64AST 1.10 Beta6 - 支持64位Windows的ARK、内核级的高级系统工具</title>
+  <link>http://www.portablesoft.org/win64ast/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>4</docid>
+  <title>Snipaste 1.6 绿色便携版 - 简单但强大的截图+贴图工具</title>
+  <link>http://www.portablesoft.org/snipaste/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>5</docid>
+  <title>Notepad2-mod 4.2.25.980 - 轻量级文本编辑器、代替记事本的最佳选择</title>
+  <link>http://www.portablesoft.org/notepad2-mod-portable/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>6</docid>
+  <title>谷歌浏览器 (Google Chrome) 52.0.2743.116 绿色免安装版+便携版</title>
+  <link>http://www.portablesoft.org/google-chrome/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>7</docid>
+  <title>Everything 1.4.0.713 Beta 便携版 - 最快最好用的文件搜索工具，新增64位版</title>
+  <link>http://www.portablesoft.org/everything-portable/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>8</docid>
+  <title>MKVToolNix 9.3.1 - MKV无损剪辑、分割、封装、合并工具</title>
+  <link>http://www.portablesoft.org/mkvtoolnix/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>9</docid>
+  <title>快速产品原型设计软件 - Axure RP Pro 8.0.0.3303 汉化绿色版 (正式版)</title>
+  <link>http://www.portablesoft.org/axure-rp-pro/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>10</docid>
+  <title>QTranslate 5.7.0.3 - 优秀的全语种多引擎实时翻译工具</title>
+  <link>http://www.portablesoft.org/qtranslate-portable/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>11</docid>
+  <title>如何读懂并写出装逼的函数式代码</title>
+  <link>http://coolshell.cn/articles/17524.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>12</docid>
+  <title>什么是工程师文化？</title>
+  <link>http://coolshell.cn/articles/17497.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>13</docid>
+  <title>关于高可用的系统</title>
+  <link>http://coolshell.cn/articles/17459.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>14</docid>
+  <title>这多年来我一直在钻研的技术</title>
+  <link>http://coolshell.cn/articles/17446.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>15</docid>
+  <title>缓存更新的套路</title>
+  <link>http://coolshell.cn/articles/17416.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>16</docid>
+  <title>为什么我不在微信公众号上写文章</title>
+  <link>http://coolshell.cn/articles/17391.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>17</docid>
+  <title>性能测试应该怎么做？</title>
+  <link>http://coolshell.cn/articles/17381.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>18</docid>
+  <title>让我们来谈谈分工</title>
+  <link>http://coolshell.cn/articles/17295.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>19</docid>
+  <title>Cuckoo Filter：设计与实现</title>
+  <link>http://coolshell.cn/articles/17225.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>20</docid>
+  <title>Docker基础技术：DeviceMapper</title>
+  <link>http://coolshell.cn/articles/17200.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>21</docid>
+  <title>Docker基础技术：AUFS</title>
+  <link>http://coolshell.cn/articles/17061.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>22</docid>
+  <title>Docker基础技术：Linux CGroup</title>
+  <link>http://coolshell.cn/articles/17049.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>23</docid>
+  <title>Docker基础技术：Linux Namespace（上）</title>
+  <link>http://coolshell.cn/articles/17010.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>24</docid>
+  <title>Docker基础技术：Linux Namespace（下）</title>
+  <link>http://coolshell.cn/articles/17029.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>25</docid>
+  <title>关于移动端的钓鱼式攻击</title>
+  <link>http://coolshell.cn/articles/17066.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>26</docid>
+  <title>Erlang之父Joe Armstrong确认将参加中国软件开发者大会</title>
+  <link>http://www.iteye.com/news/31904</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>27</docid>
+  <title>探讨增强现实（AR）基于模型的追踪技术</title>
+  <link>http://www.iteye.com/news/31903</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>28</docid>
+  <title>训练神经网络的五大算法</title>
+  <link>http://www.iteye.com/news/31902</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>29</docid>
+  <title>Facebook 用 Rust 重写 Mercurial 服务器</title>
+  <link>http://www.iteye.com/news/31898</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>30</docid>
+  <title>苹果终于任命AI研究负责人，Ruslan其人其事</title>
+  <link>http://www.iteye.com/news/31897</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>31</docid>
+  <title>【知识库专访】蒋守壮：Hive性能优化实战分享</title>
+  <link>http://www.iteye.com/news/31896</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>32</docid>
+  <title>Java 社区论坛 - Sym 1.6.0 发布</title>
+  <link>http://www.iteye.com/news/31894-release-sym-160</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>33</docid>
+  <title>【知识库专访】阿里孙佰贵：深度学习十问十答</title>
+  <link>http://www.iteye.com/news/31893</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>34</docid>
+  <title>JEECMS v8 发布，java 开源 CMS 系统</title>
+  <link>http://www.iteye.com/news/31890</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>35</docid>
+  <title>Noms：灵感来自Git的数据库</title>
+  <link>http://www.iteye.com/news/31892</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>36</docid>
+  <title>ITeye新闻热点月刊：2016年9月总第103期发布了！</title>
+  <link>http://www.iteye.com/news/31887</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>37</docid>
+  <title>2016年收入最高的5个编程语言</title>
+  <link>http://www.iteye.com/news/31886</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>38</docid>
+  <title>Firefox发布了更多实验特性</title>
+  <link>http://www.iteye.com/news/31885</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>39</docid>
+  <title>阿里云开放AliSQL数据库源码下载</title>
+  <link>http://www.iteye.com/news/31882</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>40</docid>
+  <title>高性能 TCP/UDP/HTTP 通信框架 HP-Socket v4.0.1 发布</title>
+  <link>http://www.iteye.com/news/31880</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>41</docid>
+  <title>Facebook 发布新 Node 模块管理器 Yarn，或将取代 npm 客户端</title>
+  <link>http://www.iteye.com/news/31881</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>42</docid>
+  <title>15 个开源的顶级人工智能工具</title>
+  <link>http://www.iteye.com/news/31877</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>43</docid>
+  <title>2016收入最高的5门编程语言 Java和C没在前五</title>
+  <link>http://www.iteye.com/news/31876</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>44</docid>
+  <title>Spark 2.0 时代全面到来 —— 2.0.1 版本发布</title>
+  <link>http://www.iteye.com/news/31875</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>45</docid>
+  <title>【最好用的】Java APNS开源库apns4j-1.1.0发布</title>
+  <link>http://www.iteye.com/news/31869-javaapns-apns4j-apns</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>46</docid>
+  <title>Hugo：一个快速、现代的静态网页引擎</title>
+  <link>http://www.iteye.com/news/31874</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>47</docid>
+  <title>TIOBE 2016年10月编程语言排行榜：Go语言将问鼎2016年度编程语言宝座？</title>
+  <link>http://www.iteye.com/news/31872</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>48</docid>
+  <title>深度学习性能提升的诀窍</title>
+  <link>http://www.iteye.com/news/31871</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>49</docid>
+  <title>TEDx漕河泾沙龙报名开启</title>
+  <link>http://www.iteye.com/news/31868</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>50</docid>
+  <title>谷歌发布神经机器翻译 翻译质量接近笔译人员</title>
+  <link>http://www.iteye.com/news/31867</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>51</docid>
+  <title>Mozilla宣布停止 Firefox OS 的开发</title>
+  <link>http://www.iteye.com/news/31866</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>52</docid>
+  <title>Java 9 将推迟到2017年7月发布</title>
+  <link>http://www.iteye.com/news/31865</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>53</docid>
+  <title>微信小程序，大多数人都搞错的八个问题</title>
+  <link>http://www.iteye.com/news/31864</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>54</docid>
+  <title>详解微信小程序开发教程</title>
+  <link>http://www.iteye.com/news/31862</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>55</docid>
+  <title>百度正式宣布推出深度学习开源平台PaddlePaddle</title>
+  <link>http://www.iteye.com/news/31863</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>56</docid>
+  <title>[来自异次元] 炸裂半价！微软官网 Office 365 个人版双11促销，只要199！</title>
+  <link>http://www.iplaysoft.com/news/3256</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>57</docid>
+  <title>[来自异次元] 向日葵远程控制软件 - 手机控制电脑 / 家里远程控制办公室电脑</title>
+  <link>http://www.iplaysoft.com/sunlogin.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>58</docid>
+  <title>[来自异次元] 天猫双 11 红包开抢！抢多少都能直接当现金用，别错过机会！</title>
+  <link>http://www.iplaysoft.com/news/3252</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>59</docid>
+  <title>[来自异次元] 我们终于知道那天所看见的花的名字了！智能植物花名识别软件 APP</title>
+  <link>http://www.iplaysoft.com/zhi-wu-shi-bie.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>60</docid>
+  <title>[来自异次元] 又又又又关闭了！！360 云网盘正式宣布停止运营……</title>
+  <link>http://www.iplaysoft.com/news/3204</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>61</docid>
+  <title>[来自异次元] 我的世界：故事模式 - 知名沙盒游戏 RPG 剧情化新尝试</title>
+  <link>http://www.iplaysoft.com/p/minecraft-story-mode</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>62</docid>
+  <title>[来自异次元] Swift Playgrounds - 以游戏方式零基础入门学习 iOS 开发编程 (苹果官方出品)</title>
+  <link>http://www.iplaysoft.com/swift-playgrounds.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>63</docid>
+  <title>[来自异次元] Ubuntu 16.10 Yakkety Yak 系统官方高清自带内置壁纸打包下载</title>
+  <link>http://www.iplaysoft.com/ubuntu-1610-wallpapers.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>64</docid>
+  <title>[来自异次元] Ubuntu 16.10 中文桌面版/服务器正式版ISO镜像下载 - 华丽易入门的 Linux 操作系统</title>
+  <link>http://www.iplaysoft.com/ubuntu.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>65</docid>
+  <title>[来自异次元] 中国版 Ubuntu Kylin 16.10 优麒麟操作系统中文版ISO镜像下载 (官方中国定制版)</title>
+  <link>http://www.iplaysoft.com/ubuntukylin.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>66</docid>
+  <title>[限时免费正版] 超越善恶 (Beyond Good & Evil) - 超经典的动作冒险游戏</title>
+  <link>http://www.iplaysoft.com/free/beyond-good-and-evil</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>67</docid>
+  <title>[来自异次元] Cryptomator - 专为网盘文件加密而生！开源免费的云同步网盘加密工具</title>
+  <link>http://www.iplaysoft.com/cryptomator.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>68</docid>
+  <title>[限时免费正版] 地下城守护者 - 经典塔防类战略游戏，来做一回大魔王！</title>
+  <link>http://www.iplaysoft.com/free/dungeon-keeper</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>69</docid>
+  <title>[来自异次元] Encrypto - 优雅地给文件加个密！精致的 PC / Mac 免费文件夹加密工具软件</title>
+  <link>http://www.iplaysoft.com/encrypto.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>70</docid>
+  <title>[来自异次元] 让桌面帅到炸裂！上千张精选好看 PS4 游戏主题高清壁纸收集下载 (多图杀流量)</title>
+  <link>http://www.iplaysoft.com/ps4-game-wallpapers.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>71</docid>
+  <title>[限时免费正版] 限时免费获取 8 款正版 Mac 软件，总价值达 $125 美元！</title>
+  <link>http://www.iplaysoft.com/free/3240</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>72</docid>
+  <title>[来自异次元] Microsoft Pix - 效果超越原生的微软拍照 APP，利用 AI 技术帮你拍出好照片</title>
+  <link>http://www.iplaysoft.com/microsoft-pix.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>73</docid>
+  <title>[限时免费正版] AcePlayer 万能格式视频播放器，支持局域网播放 (iOS)</title>
+  <link>http://www.iplaysoft.com/free/aceplayer</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>74</docid>
+  <title>[限时免费正版] 亚马逊免费送《三体》《垮掉的一代》正版电子书 (仅限1天)</title>
+  <link>http://www.iplaysoft.com/free/3234</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>75</docid>
+  <title>[来自异次元] DeskDock - 用电脑上的鼠标键盘来控制安卓 Android 手机平板 (剪贴板共享)</title>
+  <link>http://www.iplaysoft.com/deskdock.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>76</docid>
+  <title>[来自异次元] 幕布 - 树形层级结构的笔记软件 (一键制作思维导图 / Outline 大纲总结工具)</title>
+  <link>http://www.iplaysoft.com/mubu.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>77</docid>
+  <title>[来自异次元] 简单制作 macOS Sierra 正式版U盘USB启动安装盘方法教程 (全新安装 Mac 系统)</title>
+  <link>http://www.iplaysoft.com/macos-usb-install-drive.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>78</docid>
+  <title>[来自异次元] AG Drive 反重力赛车 - 酷炫科幻的未来赛车竞速游戏</title>
+  <link>http://www.iplaysoft.com/p/ag-drive</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>79</docid>
+  <title>[来自异次元] 轻松抠图专业版 - 不用学习变身PS高手！手机合成图P图利器</title>
+  <link>http://www.iplaysoft.com/p/qing-song-kou-tu</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>80</docid>
+  <title>[来自异次元] ReNamer - 超级强大灵活的文件批量重命名工具，彻底告别手工改名的烦恼</title>
+  <link>http://www.iplaysoft.com/renamer.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>81</docid>
+  <title>[限时免费正版] 飙酷车神 (The Crew) - 超广阔开放世界的赛车竞速游戏</title>
+  <link>http://www.iplaysoft.com/free/the-crew</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>82</docid>
+  <title>[来自异次元] 苹果 macOS Sierra 正式版操作系统安装程序官方原版 / DMG 镜像网盘下载</title>
+  <link>http://www.iplaysoft.com/macos-sierra.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>83</docid>
+  <title>[来自异次元] PDF Expert - 强大流畅的 PDF 阅读器与批注编辑应用 APP！(涂鸦/填表/签名)</title>
+  <link>http://www.iplaysoft.com/pdf-expert.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>84</docid>
+  <title>[来自异次元] Myscript Nebo - 好用到哭的手写笔记软件！你只管写画，它帮你识别转换成文字</title>
+  <link>http://www.iplaysoft.com/myscript-nebo.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>85</docid>
+  <title>[来自异次元] 苹果最新 iOS 10 正式版固件 IPSW 全套官方下载地址 (升级 iPhone / iPad 系统)</title>
+  <link>http://www.iplaysoft.com/ios.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>86</docid>
+  <title>[来自异次元] 极简汇率 - 简单而精美、实用不复杂的手机汇率换算应用 APP</title>
+  <link>http://www.iplaysoft.com/ji-jian-hui-lv.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>87</docid>
+  <title>[来自异次元] iPhone 7 蓝色泡泡壁纸 - 自带默认高清壁纸下载</title>
+  <link>http://www.iplaysoft.com/p/iphone7-wallpaper</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>88</docid>
+  <title>[来自异次元] Elementary OS 中文版 - 号称最漂亮的 Linux 系统！基于 Ubuntu 的精美发行版</title>
+  <link>http://www.iplaysoft.com/elementary-os.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>89</docid>
+  <title>[来自异次元] Blek 手指画线 - 被埋没了的精品简约清新风格创意益智解谜游戏</title>
+  <link>http://www.iplaysoft.com/blek.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>90</docid>
+  <title>[来自异次元] 苹果发布 iPhone 7 以及 AirPods 无线耳机 - 中国首发，5388 元开始预售</title>
+  <link>http://www.iplaysoft.com/iphone7.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>91</docid>
+  <title>[来自异次元] 熊猫免费杀毒软件 2016 官方中文版 - Panda Free Antivirus (云端防毒/轻量/快速)</title>
+  <link>http://www.iplaysoft.com/panda-free-antivirus.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>92</docid>
+  <title>[来自异次元] 不服跑个分？Geekbench 4 电脑手机跑分软件 - 硬件配置性能对比 / 基准测试工具</title>
+  <link>http://www.iplaysoft.com/geekbench.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>93</docid>
+  <title>[来自异次元] ACDSee Pro (iOS) - 增强相机 / 修图后期 / 制作拼贴画</title>
+  <link>http://www.iplaysoft.com/p/acdsee-pro-ios</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>94</docid>
+  <title>[来自异次元] Typeeto 虚拟蓝牙键盘软件 - 将 Mac 电脑模拟成无线键盘连接到手机使用</title>
+  <link>http://www.iplaysoft.com/typeeto.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>95</docid>
+  <title>[来自异次元] 生命线 LifeLine 5 部全集中文版下载 - 帮主角活下去！扣人心弦的文字通讯冒险生存游戏</title>
+  <link>http://www.iplaysoft.com/lifeline.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>96</docid>
+  <title>[来自异次元] WiFi Commander - 专业 3D 图形化无线网络信号扫描分析器软件 (Win10 UWP)</title>
+  <link>http://www.iplaysoft.com/wifi-commander.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>97</docid>
+  <title>[来自异次元] 开太多网页变卡变慢？OneTab 一键收纳标签页，瞬间恢复谷歌浏览器速度！</title>
+  <link>http://www.iplaysoft.com/onetab.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>98</docid>
+  <title>[来自异次元] Parallels Desktop 12 中文版下载 - Mac 系统最强虚拟机！(支持Win10/macOS Sierra)</title>
+  <link>http://www.iplaysoft.com/parallels-desktop.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>99</docid>
+  <title>[来自异次元] MindNode 中文版 - 简单优雅易上手的思维导图制作软件 / 脑图制图 APP 应用</title>
+  <link>http://www.iplaysoft.com/mindnode.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>100</docid>
+  <title>[来自异次元] Android 7.0 Nougat 正式版固件下载 - 谷歌安卓牛轧糖系统刷机 ROM 镜像</title>
+  <link>http://www.iplaysoft.com/android-7-nougat.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>101</docid>
+  <title>[来自异次元] MarkdownX - 以成为最优秀的 Android 安卓 Markdown 编辑器为目标而生!</title>
+  <link>http://www.iplaysoft.com/markdownx.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>102</docid>
+  <title>[限时免费正版] 雷曼：起源 (Rayman Origins) - 评价上佳的经典卡通横版动作游戏</title>
+  <link>http://www.iplaysoft.com/free/rayman-origins</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>103</docid>
+  <title>[来自异次元] TimeUnlock / Screen Lock 时间锁屏软件 - 用时间作为密码解锁手机</title>
+  <link>http://www.iplaysoft.com/time-unlock-password-android.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>104</docid>
+  <title>[来自异次元] Pixel Cup Soccer 16 像素足球世界杯 - 热血足球既视感的游戏</title>
+  <link>http://www.iplaysoft.com/p/pixel-cup-soccer</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>105</docid>
+  <title>[来自异次元] Win10 更新将带来高分屏显示器优化！DPI 缩放功能大幅改进</title>
+  <link>http://www.iplaysoft.com/news/3199</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>106</docid>
+  <title>[来自异次元] The Great Coffee App 极品咖啡应用 - 轻松入门搞懂咖啡的区别和制作方法</title>
+  <link>http://www.iplaysoft.com/p/the-great-coffee-app</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>107</docid>
+  <title>[来自异次元] NVIDIA GeForce 最新显卡驱动程序 372.54 下载</title>
+  <link>http://www.iplaysoft.com/p/nvidia-geforce-driver</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>108</docid>
+  <title>[来自异次元] Advanced IP Scanner 中文版 - WIFI 防蹭网软件 / 扫描连接无线路由器的电脑手机</title>
+  <link>http://www.iplaysoft.com/advanced-ip-scanner.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>109</docid>
+  <title>[来自异次元] Google 悄悄开发全新 Fuchsia 融合操作系统，以后安卓怎办？</title>
+  <link>http://www.iplaysoft.com/news/3196</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>110</docid>
+  <title>[来自异次元] 微软更新 Office iPhone 手机版，支持手指绘画/标注/涂鸦功能</title>
+  <link>http://www.iplaysoft.com/news/3195</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>111</docid>
+  <title>[来自异次元] 微信电脑版下载 - 官方PC版 Windows / Mac 桌面客户端，像QQ一样聊微信！</title>
+  <link>http://www.iplaysoft.com/weixin.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>112</docid>
+  <title>[来自异次元] 谷歌下一代 Nexus 手机 (未发售) 内置壁纸铃声下载</title>
+  <link>http://www.iplaysoft.com/news/3194</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>113</docid>
+  <title>[来自异次元] LICEcap 中文版 - 超简单的 GIF 动画制作软件神器 (屏幕录像生成 GIF 图片工具)</title>
+  <link>http://www.iplaysoft.com/licecap.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>114</docid>
+  <title>[来自异次元] 微软官方提供的免费正版 Win10 操作系统虚拟机镜像 VM 下载</title>
+  <link>http://www.iplaysoft.com/win10-virtual-machine.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>115</docid>
+  <title>[来自异次元] AfterDo Change Hotkey - 给系统/软件重新定义修改快捷键</title>
+  <link>http://www.iplaysoft.com/p/afterdo-change-hotkey</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>116</docid>
+  <title>[转]反对修订《美国联邦刑事诉讼规则和证据规则》第 41 条</title>
+  <link>https://xbeta.info/rule-41.htm</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>117</docid>
+  <title>麦步智能手表试用体验：超长待机是硬道理，开放平台是未来</title>
+  <link>https://xbeta.info/maibu-watch.htm</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>118</docid>
+  <title>【转载+补充】最强免费萤幕录影软体 ActivePresenter 教学影片神器</title>
+  <link>https://xbeta.info/activepresenter.htm</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>119</docid>
+  <title>[已结束]过完节，关爱一下牙齿吧~</title>
+  <link>https://xbeta.info/aiya.htm</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>120</docid>
+  <title>顶级免费看图软件IrfanView v4.41发布：提供平板UI</title>
+  <link>https://xbeta.info/irfanview-v441.htm</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>121</docid>
+  <title>欢迎加入微信：一些准备工作</title>
+  <link>https://xbeta.info/wechat.htm</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>122</docid>
+  <title>Ditto:首选的剪贴板增强软件（更新）</title>
+  <link>https://xbeta.info/ditto.htm</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>123</docid>
+  <title>剪贴板增强软件综述:CLCL,ClipX,Ditto等（更新CLCL v2.0）</title>
+  <link>https://xbeta.info/clipx-clcl-ditto.htm</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>124</docid>
+  <title>RightNote:让Evernote支持树状目录的经典桌面笔记软件</title>
+  <link>https://xbeta.info/rightnote.htm</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>125</docid>
+  <title>极点五笔完整更新历史: v1.0-v7.2内测版（2012-01-16）</title>
+  <link>https://xbeta.info/freewb-history.htm</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>126</docid>
+  <title>c 语言宏定义 #define 的理解与资料整理</title>
+  <link>http://blog.jobbole.com/107047/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>127</docid>
+  <title>程序员如何保持身体健康？</title>
+  <link>http://blog.jobbole.com/107038/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>128</docid>
+  <title>全栈必备：DevOps</title>
+  <link>http://blog.jobbole.com/107021/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>129</docid>
+  <title>C++ 的强制类型转换</title>
+  <link>http://blog.jobbole.com/107033/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>130</docid>
+  <title>Go net/http 超时机制完全手册</title>
+  <link>http://blog.jobbole.com/107012/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>131</docid>
+  <title>6 个月才解决了这个小 Bug</title>
+  <link>http://blog.jobbole.com/107030/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>132</docid>
+  <title>全栈必备：Git</title>
+  <link>http://blog.jobbole.com/107027/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>133</docid>
+  <title>后端成长之路：从菜鸟到架构</title>
+  <link>http://blog.jobbole.com/107025/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>134</docid>
+  <title>一些实用的 Laravel 小技巧</title>
+  <link>http://blog.jobbole.com/107018/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>135</docid>
+  <title>深入Go UDP编程</title>
+  <link>http://blog.jobbole.com/107004/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>136</docid>
+  <title>测试自动化后，我们还需要QA吗？</title>
+  <link>http://blog.jobbole.com/106995/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>137</docid>
+  <title>C++ 文件操作详解</title>
+  <link>http://blog.jobbole.com/106992/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>138</docid>
+  <title>漫画算法：最小栈的实现</title>
+  <link>http://blog.jobbole.com/106940/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>139</docid>
+  <title>Go 中的锁源码实现：Mutex</title>
+  <link>http://blog.jobbole.com/106981/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>140</docid>
+  <title>Linux 新的API signalfd、timerfd、eventfd使用说明</title>
+  <link>http://blog.jobbole.com/106933/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>141</docid>
+  <title>一个屌丝程序猿的人生（39）</title>
+  <link>http://blog.jobbole.com/106922/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>142</docid>
+  <title>C++ 内存分配(new，operator new)详解</title>
+  <link>http://blog.jobbole.com/106923/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>143</docid>
+  <title>制作你的第一个 Atom 文本编辑器插件</title>
+  <link>http://blog.jobbole.com/106919/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>144</docid>
+  <title>QA，从 1.0 到 4.0</title>
+  <link>http://blog.jobbole.com/106910/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>145</docid>
+  <title>C++ 虚函数和虚继承浅析</title>
+  <link>http://blog.jobbole.com/106912/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>146</docid>
+  <title>被美团收购支付牌照的幕后故事：在“被毁灭”与“被吞并”之间二选一</title>
+  <link>http://36kr.com/p/5055230.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>147</docid>
+  <title>做不做VC，本就是工作选择而已</title>
+  <link>http://36kr.com/p/5055229.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>148</docid>
+  <title>《梦三国》研发商电魂网络A股上市，募资8.7亿元</title>
+  <link>http://36kr.com/p/5055223.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>149</docid>
+  <title>霜降了，来说说虚拟现实行业的G点在哪里？</title>
+  <link>http://36kr.com/p/5055226.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>150</docid>
+  <title>互联网金融整治风暴来袭，行业将现四大变局</title>
+  <link>http://36kr.com/p/5055189.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>151</docid>
+  <title>扭曲认知力场：初创品牌如何四步做到</title>
+  <link>http://36kr.com/p/5055108.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>152</docid>
+  <title>3D打印的未来住所：人、鱼、蔬菜共同生活的闭环生态系统</title>
+  <link>http://36kr.com/p/5055203.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>153</docid>
+  <title>阿里研究院潘永花：从全球市值BIG5公司看未来科技发展趋势</title>
+  <link>http://36kr.com/p/5055215.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>154</docid>
+  <title>监管层叫停，阿里京东之后，互联网消费金融ABS“一律不批”</title>
+  <link>http://36kr.com/p/5055218.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>155</docid>
+  <title>VR 命运，并非只是寒冬？Unity 有话讲</title>
+  <link>http://36kr.com/p/5055109.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>156</docid>
+  <title>微博炫出2016年的数据，感觉金光四射</title>
+  <link>http://36kr.com/p/5055182.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>157</docid>
+  <title>PPP+（O+O），中孝科技从基层医疗延伸电商、金融、数据业务</title>
+  <link>http://36kr.com/p/5055098.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>158</docid>
+  <title>51信用卡C+轮再融8400万美元，将发起数亿规模产业基金</title>
+  <link>http://36kr.com/p/5055213.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>159</docid>
+  <title>你离开VC以后呢？</title>
+  <link>http://36kr.com/p/5055211.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>160</docid>
+  <title>美丽策发布家用美容仪智美光膜，想让医疗级光子嫩肤进入全民时代</title>
+  <link>http://36kr.com/p/5055188.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>161</docid>
+  <title>传统妖怪故事怎么在当代成为爆款？非人哉除了搞笑日常，还加了点“性冷淡”色彩</title>
+  <link>http://36kr.com/p/5055144.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>162</docid>
+  <title>美国哪些地区的初创公司存活率更高？这个调查结果也可以类比中国的创业环境</title>
+  <link>http://36kr.com/p/5055127.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>163</docid>
+  <title>2.82亿月活跃用户，34万头部大号，“金V”认证将登场，所有跟微博相关的重要数据都在这了</title>
+  <link>http://36kr.com/p/5055202.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>164</docid>
+  <title>要做服务和酒店行业的“领英” ，Industry 获得230万美元种子轮融资</title>
+  <link>http://36kr.com/p/5055147.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>165</docid>
+  <title>苹果不得不由硬变软，谷歌则开始由软变硬了</title>
+  <link>http://36kr.com/p/5055197.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>166</docid>
+  <title>智能车载公司Navdy 的抬头显示器正式发售，让你在现实道路上看到“漂浮信息”</title>
+  <link>http://36kr.com/p/5055195.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>167</docid>
+  <title>慧科集团宣布完成 C 轮融资，首期成立 5 亿人民币慧科资本</title>
+  <link>http://36kr.com/p/5055198.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>168</docid>
+  <title>马斯克的商业帝国岌岌可危，他将如何摆脱财务困境？</title>
+  <link>http://36kr.com/p/5055169.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>169</docid>
+  <title>软银欲对印度驾乘分享巨头 Ola 追加 3 亿美元投资，欲助其在本土对抗 Uber 竞争</title>
+  <link>http://36kr.com/p/5055160.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>170</docid>
+  <title>10 分钟 get 医用大麻卡，“滴滴叫大麻”初创公司 Eaze 1300 万美元 B 轮投资</title>
+  <link>http://36kr.com/p/5055131.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>171</docid>
+  <title> 知名创业孵化器告诉你，聚焦种子轮的投资人应如何评估初创公司</title>
+  <link>http://36kr.com/p/5055178.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>172</docid>
+  <title>三季度，Vivo和OPPO在中国赶超华为，在印度紧追小米</title>
+  <link>http://36kr.com/p/5055187.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>173</docid>
+  <title>飞利浦照明领投 PointGrab 700 万美元融资，开发智能建筑传感器</title>
+  <link>http://36kr.com/p/5055157.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>174</docid>
+  <title>慧择网推出高风险户外运动产品，从渠道价值向产品价值延伸</title>
+  <link>http://36kr.com/p/5055193.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>175</docid>
+  <title>新赛季大戏揭幕，从这五个趋势读懂80亿美元的NBA商业新世界</title>
+  <link>http://36kr.com/p/5055166.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>176</docid>
+  <title>利用CRISPR基因编辑技术敲除乙肝病毒基因，新创康达基因希望能根治乙肝</title>
+  <link>http://36kr.com/p/5055146.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>177</docid>
+  <title>令人大失所望的苹果第四财季报告，让“苹果见顶论”再次甚嚣尘上</title>
+  <link>http://36kr.com/p/5055192.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>178</docid>
+  <title>特斯拉发布半成品自动驾驶！背后阴谋？</title>
+  <link>http://36kr.com/p/5055080.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>179</docid>
+  <title>乐视宣告与国安正式分手：赞助费已付，国安寻找新买家</title>
+  <link>http://36kr.com/p/5055186.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>180</docid>
+  <title>先买断后销售，从童车入手的“益生活”也瞄准了母婴二手闲置市场</title>
+  <link>http://36kr.com/p/5054972.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>181</docid>
+  <title>凭借把照片打印成书，时光印记能不能成为下一代图片社交App？</title>
+  <link>http://36kr.com/p/5055171.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>182</docid>
+  <title>姚劲波：创业永远要做未来的事情，不要嫌早</title>
+  <link>http://36kr.com/p/5055180.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>183</docid>
+  <title>苹果在渥太华设立汽车软件研发中心，与黑莓QNX同处一个园区</title>
+  <link>http://36kr.com/p/5055183.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>184</docid>
+  <title>供不应求的无人机植保服务仍处红利期，是否有交易平台机会？</title>
+  <link>http://36kr.com/p/5055126.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>185</docid>
+  <title>50000罐啤酒，120英里：Uber完成全球首次无人卡车送货</title>
+  <link>http://36kr.com/p/5055179.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>186</docid>
+  <title>资产百分百获近千万人民币融资，委案金额达到15亿元</title>
+  <link>http://36kr.com/p/5055185.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>187</docid>
+  <title>8 点 1 氪：苹果第四财季业绩下滑； vivo 和 OPPO 超越华为成为中国前两大手机厂商； Google Pixel 手机预售大幅超过预期</title>
+  <link>http://36kr.com/p/5055184.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>188</docid>
+  <title>消费级航拍无人机热潮继续，星图智控获得7200万元B轮融资</title>
+  <link>http://36kr.com/p/5055168.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>189</docid>
+  <title>在手机端驱动虚拟形象，FaceUnity并不满足动画应用未来想发展VR应用</title>
+  <link>http://36kr.com/p/5055167.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>190</docid>
+  <title>细读健康中国2030规划，掌握迎接16万亿市场的正确姿势</title>
+  <link>http://36kr.com/p/5055181.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>191</docid>
+  <title>Apple ID被盗事件增多，小广告还钻进了 iPhone 相册</title>
+  <link>http://36kr.com/p/5055177.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>192</docid>
+  <title>在锤子内部孵化两年，VR项目团队或要解散了</title>
+  <link>http://36kr.com/p/5055176.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>193</docid>
+  <title>美国东海岸断网事件后，物联网前景堪忧，越来越多的人呼吁政府加强监管</title>
+  <link>http://36kr.com/p/5055161.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>194</docid>
+  <title>Benedict Evans：关于Echo智能音箱引发的UI思考</title>
+  <link>http://36kr.com/p/5055175.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>195</docid>
+  <title>【大公司晚报】亚马逊微型无人机专利曝光；微博自媒体年入超百亿</title>
+  <link>http://36kr.com/p/5055172.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>196</docid>
+  <title>网友在美国“贴吧”就火星殖民计划“发难”马斯克，看他如何应战？</title>
+  <link>http://36kr.com/p/5055164.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>197</docid>
+  <title>在专家学者眼里，该如何"鼓励和规范"私人小客车合乘?</title>
+  <link>http://36kr.com/p/5055174.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>198</docid>
+  <title>细数社交巨无霸Facebook与美国媒体的“爱恨情仇”</title>
+  <link>http://36kr.com/p/5055165.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>199</docid>
+  <title>餐饮业已有对手3000，“来客”举着“高可配置”的大旗进场厮杀</title>
+  <link>http://36kr.com/p/5055128.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>200</docid>
+  <title>医学科技与资本融合，精准医学的临床转化还有多远？</title>
+  <link>http://36kr.com/p/5055077.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>201</docid>
+  <title>帐篷营地＋高端生态旅游，康藤获3000万元人民币A轮融资</title>
+  <link>http://36kr.com/p/5055057.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>202</docid>
+  <title>去哪儿网的私有化之路，下一步去哪儿？</title>
+  <link>http://36kr.com/p/5055158.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>203</docid>
+  <title>我为什么来VC，以及VC是个高大上的行业吗？</title>
+  <link>http://36kr.com/p/5055162.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>204</docid>
+  <title>趣分期财务数据曝光：2015年亏5.4亿，2016年7个月赚1.57亿</title>
+  <link>http://36kr.com/p/5055155.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>205</docid>
+  <title>押宝“神契”IP做全产业链孵化，出身米粒影业的米玩科技专攻二次元市场</title>
+  <link>http://36kr.com/p/5055153.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>206</docid>
+  <title>冬天的海龟，回头是岸</title>
+  <link>http://36kr.com/p/5055148.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>207</docid>
+  <title>苹果财报可能不如预期？但你知道为何巴菲特老爷子一直很看好它吗？</title>
+  <link>http://36kr.com/p/5055141.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>208</docid>
+  <title>风投公司的焦虑：智能手机后近10年难寻风口</title>
+  <link>http://36kr.com/p/5055152.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>209</docid>
+  <title>共享住宿开始了冲刺赛，高速增长的住百家能应对自身的“经济危机”吗？</title>
+  <link>http://36kr.com/p/5055143.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>210</docid>
+  <title>雷军拿出“双曲面玻璃”、“全面屏概念手机”，又一次冲刺高端市场</title>
+  <link>http://36kr.com/p/5055150.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>211</docid>
+  <title>三好网宣布完成 A 轮融资，Q3 起单月营收超过 3500 万元</title>
+  <link>http://36kr.com/p/5055151.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>212</docid>
+  <title>人工智能明年或将监管股市欺诈，还能给交易员的诚信度打分</title>
+  <link>http://36kr.com/p/5055139.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>213</docid>
+  <title>全球零售银行业大幅裁员撤店，科技金融有何机会？</title>
+  <link>http://36kr.com/p/5055138.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>214</docid>
+  <title>百度鹰眼上线一周年终端总数量超1000万，台湾联发科技加入百度鹰眼硬件联盟</title>
+  <link>http://36kr.com/p/5055145.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>215</docid>
+  <title>张嘉佳的“时间海”A轮融资过亿，做青年作家的摆渡人？| 首发</title>
+  <link>http://36kr.com/p/5054807.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>216</docid>
+  <title>春晓资本何文：B2B的春天源自一场流通分销体系的变革</title>
+  <link>http://36kr.com/p/5055142.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>217</docid>
+  <title>火秀娱乐：TFBOYS 可遇不可求，互联网造星的机会在“腰部艺人”</title>
+  <link>http://36kr.com/p/5055119.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>218</docid>
+  <title>英雄互娱发布Q3财报，净盈利1.44亿，王思聪离职</title>
+  <link>http://36kr.com/p/5055136.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>219</docid>
+  <title>把混合式教育推广到南非，SPARK SCHOOLS 获得 900 万美元 B 轮融资</title>
+  <link>http://36kr.com/p/5055140.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>220</docid>
+  <title>朱啸虎：如何发掘千亿级市场机会？</title>
+  <link>http://36kr.com/p/5055137.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>221</docid>
+  <title>帮数据科学家干脏累活，大数据初创企业Paxata获3350万美元D轮融资</title>
+  <link>http://36kr.com/p/5055134.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>222</docid>
+  <title>自主研发 Firelfy 技术，安可济希望以产品和技术优势切入液体活检市场</title>
+  <link>http://36kr.com/p/5055092.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>223</docid>
+  <title>大热的IaaS与前途未卜的甲骨文</title>
+  <link>http://36kr.com/p/5055040.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>224</docid>
+  <title>泳帽、摩托车和热钱，中国创投圈在印尼的真实故事 | 36氪特稿</title>
+  <link>http://36kr.com/p/5055135.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>225</docid>
+  <title>【创业者说】金数据陈金洲：不谈营收的 SaaS 增长都是耍流氓</title>
+  <link>http://36kr.com/p/5055133.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>226</docid>
+  <title>微信成美社交媒体的学习对象，Facebook Messenger现在才推出支付功能</title>
+  <link>http://36kr.com/p/5055121.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>227</docid>
+  <title>猎豹升级豹米空气净化器，三年不换芯能否撬动市场？</title>
+  <link>http://36kr.com/p/5055117.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>228</docid>
+  <title>优化旅游产业链布局，海南航空斥资 65 亿美元收购希尔顿 25% 股份</title>
+  <link>http://36kr.com/p/5055123.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>229</docid>
+  <title>可穿戴设备的数据怎么用？Cardiogram 通过机器学习实现对用户健康的监测</title>
+  <link>http://36kr.com/p/5055074.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>230</docid>
+  <title>Hunting+：习惯了追逐与被追逐，我们想让寒冬中的资本对接变得“暖”一点</title>
+  <link>http://36kr.com/p/5055113.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>231</docid>
+  <title>开发汽车深度感应解决方案，以色列公司 Oryx Vision 获1700万美元 A 轮融资</title>
+  <link>http://36kr.com/p/5055103.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>232</docid>
+  <title>阿里研究院崔瀚文：当谈论生态型组织，应当关注什么</title>
+  <link>http://36kr.com/p/5055116.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>233</docid>
+  <title>售价199元的小米VR头显正式版，会是年轻人的另一款新玩具吗？</title>
+  <link>http://36kr.com/p/5055125.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>234</docid>
+  <title>英特尔资本领投的视觉传感器制造商 Chronocam 获1500 万美元融资</title>
+  <link>http://36kr.com/p/5055122.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>235</docid>
+  <title>将自行车健身变成在线多玩家游戏，Zwift 即将完成 2500 万美元 A 轮融资</title>
+  <link>http://36kr.com/p/5055097.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>236</docid>
+  <title>InContext获1520万美元B轮融资，继续深化VR在零售领域的应用 </title>
+  <link>http://36kr.com/p/5055100.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>237</docid>
+  <title>“易快报”拿到DCM的3000万元A轮融资，报销行业要火？</title>
+  <link>http://36kr.com/p/5055049.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>238</docid>
+  <title>粉丝经济新浪潮：谁在潮头？谁的粉丝最“壕”？</title>
+  <link>http://36kr.com/p/5055120.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>239</docid>
+  <title>为政府项目提供融资的同时，大拇哥还研发了支持业务的区块链 </title>
+  <link>http://36kr.com/p/5055106.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>240</docid>
+  <title>致歉</title>
+  <link>http://36kr.com/p/5055118.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>241</docid>
+  <title>谷歌收购眼动追踪技术公司Eyefluence，VR布局再下一城</title>
+  <link>http://36kr.com/p/5055104.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>242</docid>
+  <title>苹果iOS10.1正式上线，不过这次的惊喜只给了购买iPhone7Plus的土豪们</title>
+  <link>http://36kr.com/p/5055115.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>243</docid>
+  <title>乐视网前三季净利4.93亿元，同比增长30.75%</title>
+  <link>http://36kr.com/p/5055095.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>244</docid>
+  <title>阿里研究院聂东明：人工智能或将彻底颠覆人类现行法律体系</title>
+  <link>http://36kr.com/p/5055111.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>245</docid>
+  <title>初创品牌获取用户的起点：从建立认知开始，像飞机滑行一样启动</title>
+  <link>http://36kr.com/p/5055069.html?ktm_source=feed</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>246</docid>
+  <title>“表情符号”表现怎样的情感</title>
+  <link>http://blog.sina.com.cn/s/blog_4cacf1f30102wph6.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>247</docid>
+  <title>体育竞赛的光荣与荣誉</title>
+  <link>http://blog.sina.com.cn/s/blog_4cacf1f30102wlii.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>248</docid>
+  <title>我不沉默，所以我还活着：埃利·维瑟尔和他的《夜》</title>
+  <link>http://blog.sina.com.cn/s/blog_4cacf1f30102wf6l.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>249</docid>
+  <title>犬儒主义是弱者的抵抗&nbsp;知识分子失败是全社会的不幸</title>
+  <link>http://blog.sina.com.cn/s/blog_4cacf1f30102we7n.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>250</docid>
+  <title>专制教育生产虚伪和功利的奴民</title>
+  <link>http://blog.sina.com.cn/s/blog_4cacf1f30102wdta.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>251</docid>
+  <title>当今中国社会是一个心知肚明的假面社会</title>
+  <link>http://blog.sina.com.cn/s/blog_4cacf1f30102wde7.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>252</docid>
+  <title>沉默和失忆的国民是怎样教育成的</title>
+  <link>http://blog.sina.com.cn/s/blog_4cacf1f30102wcww.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>253</docid>
+  <title>消弭于第三代的“文革”记忆</title>
+  <link>http://blog.sina.com.cn/s/blog_4cacf1f30102wbds.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>254</docid>
+  <title>电子时代深度阅读离不开书籍</title>
+  <link>http://blog.sina.com.cn/s/blog_4cacf1f30102wa4r.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>255</docid>
+  <title>当今中国的民生灾祸和民众“恐慌”</title>
+  <link>http://blog.sina.com.cn/s/blog_4cacf1f30102w9i3.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>256</docid>
+  <title>亮瞎眼的特斯拉线圈</title>
+  <link>http://www.geekfan.net/13985/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>257</docid>
+  <title>DIY修炼：舵机知识扫盲</title>
+  <link>http://www.geekfan.net/13978/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>258</docid>
+  <title>【神级DIY】自制无线控制“甲壳虫”机器人</title>
+  <link>http://www.geekfan.net/13971/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>259</docid>
+  <title>DIY：制作曲面感光元件的针孔相机</title>
+  <link>http://www.geekfan.net/13956/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>260</docid>
+  <title>DIY：拆了收录机，做个机器人</title>
+  <link>http://www.geekfan.net/13945/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>261</docid>
+  <title>极客DIY：轻松使用树莓派控制灯</title>
+  <link>http://www.geekfan.net/13941/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>262</docid>
+  <title>自主机器人：你的私人WALL·E</title>
+  <link>http://www.geekfan.net/13924/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>263</docid>
+  <title>牛人自制加特林水枪，让你度过丧心病狂的夏天</title>
+  <link>http://www.geekfan.net/13900/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>264</docid>
+  <title>自制拉风电动滑板，回头率太高有点不习惯</title>
+  <link>http://www.geekfan.net/13876/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>265</docid>
+  <title>人人都能玩航拍 手把手教你装4轴</title>
+  <link>http://www.geekfan.net/13847/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>266</docid>
+  <title>苹果第四财季净利润下滑19% 这次大中华区也不给力了</title>
+  <link>http://www.techweb.com.cn/it/2016-10-26/2420458.shtml</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>267</docid>
+  <title>微信发布新版本：群聊能收钱 拉人需群主确认</title>
+  <link>http://www.techweb.com.cn/internet/2016-10-26/2420487.shtml</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>268</docid>
+  <title>民航局：10月27日起三星Note7不能带上飞机</title>
+  <link>http://www.techweb.com.cn/tele/2016-10-26/2421161.shtml</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>269</docid>
+  <title>新华网前三季度营收增长近五成</title>
+  <link>http://www.techweb.com.cn/finance/2016-10-26/2421257.shtml</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>270</docid>
+  <title>中国代购们在澳洲被BBC盯上了 他们普遍加价50%</title>
+  <link>http://www.techweb.com.cn/world/2016-10-26/2420817.shtml</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>271</docid>
+  <title>国行Note 7机主：被三星韩国高管晾在办公室1天1夜</title>
+  <link>http://www.techweb.com.cn/tele/2016-10-26/2420858.shtml</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>272</docid>
+  <title>Uber自动驾驶卡车成功送出第一单 跑了120英里挣了470美元</title>
+  <link>http://www.techweb.com.cn/world/2016-10-26/2420800.shtml</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>273</docid>
+  <title>谷歌光纤项目受挫：不仅CEO下课 还要展开裁员 </title>
+  <link>http://www.techweb.com.cn/internet/2016-10-26/2420690.shtml</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>274</docid>
+  <title>苹果大战微软 这次发布会都有什么新品发布？</title>
+  <link>http://app.techweb.com.cn/ios/2016-10-26/2420581.shtml</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>275</docid>
+  <title>复制阿里神话？传软银3亿美元投资印度版滴滴Ola</title>
+  <link>http://www.techweb.com.cn/internet/2016-10-26/2420598.shtml</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>276</docid>
+  <title>苹果被曝在加拿大研发汽车操作系统 还把黑莓的人给挖了</title>
+  <link>http://www.techweb.com.cn/world/2016-10-26/2420619.shtml</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>277</docid>
+  <title>明年初三星支付Samsung Pay将在全球范围支持网购</title>
+  <link>http://www.techweb.com.cn/internet/2016-10-26/2421249.shtml</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>278</docid>
+  <title>奥巴马：美国互联网瘫痪 现在还没弄清楚原因！</title>
+  <link>http://www.techweb.com.cn/world/2016-10-26/2421013.shtml</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>279</docid>
+  <title>不止玩游戏这么简单 VR和AR还可以治疗视力问题</title>
+  <link>http://www.techweb.com.cn/it/2016-10-26/2420642.shtml</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>280</docid>
+  <title>美国超级高铁已超预期！Hyperloop One再融资2.5亿美元</title>
+  <link>http://www.techweb.com.cn/world/2016-10-26/2421096.shtml</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>281</docid>
+  <title>小米note 2发布会没耍猴 锤子Big Bang随意发车</title>
+  <link>http://www.techweb.com.cn/wanbao/2016-10-25/2420331.shtml</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>282</docid>
+  <title>库克：苹果对于打造原创节目非常感兴趣</title>
+  <link>http://people.techweb.com.cn/2016-10-26/2420595.shtml</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>283</docid>
+  <title>纳德拉坦承微软在手机市场上失败了</title>
+  <link>http://www.techweb.com.cn/world/2016-10-26/2420608.shtml</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>284</docid>
+  <title>孙正义：20年内物联网设备数量有望超过1万亿台</title>
+  <link>http://people.techweb.com.cn/2016-10-26/2420509.shtml</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>285</docid>
+  <title>柳青：滴滴要展开国际化扩张 拟与当地专车服务合作</title>
+  <link>http://people.techweb.com.cn/2016-10-26/2420527.shtml</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>286</docid>
+  <title>云盘关停背后：摆上台面的都是借口 真相只有一个</title>
+  <link>http://www.techweb.com.cn/irouter/2016-10-26/2420443.shtml</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>287</docid>
+  <title>王云辉：雷军给手机行业上了生动一课</title>
+  <link>http://wangyunhui.blog.techweb.com.cn/archives/561.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>288</docid>
+  <title>康斯坦：悲剧汽车 特斯拉注定赚不到钱？</title>
+  <link>http://skysfw.blog.techweb.com.cn/archives/6214.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>289</docid>
+  <title>歪道道：无人驾驶普及 智能汽车让你有安全感吗？</title>
+  <link>http://waidaodao.blog.techweb.com.cn/archives/16.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>290</docid>
+  <title>王新宇：从马云座上宾到被淘汰 站长怎么玩死自己</title>
+  <link>http://wangxinyu.blog.techweb.com.cn/archives/347.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>291</docid>
+  <title>于　斌：中兴手机换帅殷一民 恐依旧难入一线阵营</title>
+  <link>http://tuiba.blog.techweb.com.cn/archives/1701</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>292</docid>
+  <title>张书乐：不再提及情怀 罗永浩要和阿里耍什么花枪</title>
+  <link>http://zhangshuyue.blog.techweb.com.cn/archives/3475</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>293</docid>
+  <title></title>
+  <link></link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>294</docid>
+  <title></title>
+  <link></link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>295</docid>
+  <title>SALONPAS 撒隆巴斯 镇痛贴 140枚*2件 153.8元包邮包税，2件起购</title>
+  <link>http://www.smzdm.com/p/6544825/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>296</docid>
+  <title>双11预售：《CLAMP 魔卡少女樱》库洛牌完全复刻版套装 官方版 337元包邮（40元定金，11.11付尾款需用券）</title>
+  <link>http://www.smzdm.com/p/6544775/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>297</docid>
+  <title>DECATHLON 迪卡侬 DOMYOS WAW 女士运动上衣  29.9元</title>
+  <link>http://www.smzdm.com/p/6544604/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>298</docid>
+  <title>凑单品：Cadet 宠物零食 整只鸡胸肉170g  8.9元</title>
+  <link>http://www.smzdm.com/p/6544818/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>299</docid>
+  <title>双11预售：Ronshen 容声 BCD-639WD11HYA 639升 对开门冰箱  2849元包邮（预付100元定金）</title>
+  <link>http://www.smzdm.com/p/6544729/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>300</docid>
+  <title>双11预售：illy 意利 意式浓缩深度烘焙咖啡粉 250g*2罐 94元（定金10元，11.11付尾款）</title>
+  <link>http://www.smzdm.com/p/6544724/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>301</docid>
+  <title>双11预售：Danisa 丹麦皇冠 风味曲奇饼干 908g 56元含税包邮（需10元定金，11.11付尾款）</title>
+  <link>http://www.smzdm.com/p/6544431/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>302</docid>
+  <title>Tefal 特福 钛铸涂层红点设计不粘锅平底锅 D47419 28cm 196元 </title>
+  <link>http://www.smzdm.com/p/6544805/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>303</docid>
+  <title>拼单好价，移动端：Pelikan 百利金 P480系列 钢笔 F尖 亮绿色*4件 287.16元包邮，合71.79元/件</title>
+  <link>http://www.smzdm.com/p/6543856/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>304</docid>
+  <title>WMF 厨房套装 压力锅快易锅6.5L+中华炒锅32cm+煎锅平底锅24cm 1599元包邮</title>
+  <link>http://www.smzdm.com/p/6544766/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>305</docid>
+  <title>双11预售：Puritan's Pride 普丽普莱 双倍氨糖软骨素 240粒*2瓶 169元+22.49元税费（需30元定金，需用券）</title>
+  <link>http://www.smzdm.com/p/6544370/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>306</docid>
+  <title>预售：WHALEY 微鲸 WTV55K1J 55英寸 4K平板电视 2499元包邮</title>
+  <link>http://www.smzdm.com/p/6543826/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>307</docid>
+  <title>MEIZU 魅族 MX6 全网通手机 1609元包邮(1639-30)</title>
+  <link>http://www.smzdm.com/p/6544490/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>308</docid>
+  <title>LANCOME 兰蔻 水份缘舒缓系列套装 2件套 599元包邮包税</title>
+  <link>http://www.smzdm.com/p/6544737/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>309</docid>
+  <title>SUPOR 苏泊尔 YS24ED 好帮手不锈钢压力锅 24cm+美厨三层蒸锅 26CM 254元包邮（双重优惠后）</title>
+  <link>http://www.smzdm.com/p/6544734/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>310</docid>
+  <title>凑单品：NUK Vario Cup多色带盖婴儿防漏 学饮杯 12个月以上 39元</title>
+  <link>http://www.smzdm.com/p/6544606/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>311</docid>
+  <title>双11预售：Onitsuka Tiger 鬼塚虎 OKT037 中性款休闲T恤 135元（15元定金，11.11付尾款）</title>
+  <link>http://www.smzdm.com/p/6544371/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>312</docid>
+  <title>tutuanna 300D 纯色加厚踩脚裤  79元</title>
+  <link>http://www.smzdm.com/p/6544615/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>313</docid>
+  <title>2016双11预售：Tong Tai 童泰 秋冬季 婴儿睡袋加厚款 79元包邮（10元定金，11.11付尾款）</title>
+  <link>http://www.smzdm.com/p/6544673/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>314</docid>
+  <title>双11预售：皇上皇 金福 五花腊肉 500g 51元包邮（用券）（定金10元，11.11付尾款）</title>
+  <link>http://www.smzdm.com/p/6544593/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>315</docid>
+  <title>SIEMENS 西门子 SK23E800TI 嵌入式洗碗机 2580元包邮</title>
+  <link>http://www.smzdm.com/p/6544226/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>316</docid>
+  <title>GUCCI 古驰 133483 3G200 双G提花图案羊毛围巾 ￥1299+￥154.58含税直邮（约￥1454）</title>
+  <link>http://www.smzdm.com/p/6544660/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>317</docid>
+  <title>WMF 福腾宝 Perfect 压力锅 6.5 L 1059元包邮</title>
+  <link>http://www.smzdm.com/p/6544708/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>318</docid>
+  <title>凑单品：THERMOS 膳魔师 APA-800 保温杯清洁器 109元</title>
+  <link>http://www.smzdm.com/p/6544699/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>319</docid>
+  <title>九点夜读：《红楼梦日历》、《牡丹亭日历》 日历之周——感悟古典文学之美</title>
+  <link>http://www.smzdm.com/p/6543607/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>320</docid>
+  <title>Ventry 温特瑞 泰国天然乳胶欧罗枕/面包枕 429元包邮（需用券）</title>
+  <link>http://www.smzdm.com/p/6540563/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>321</docid>
+  <title>27日6点开始，移动端：POVOS 奔腾 S1556 电水壶 1.5L 59元</title>
+  <link>http://www.smzdm.com/p/6544192/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>322</docid>
+  <title>双11预售：Crocs 卡骆驰 中性 11001 沙滩洞洞鞋 184元（30元定金，11.11付尾款）</title>
+  <link>http://www.smzdm.com/p/6544304/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>323</docid>
+  <title>Finish 亮碟 洗碗机机体清洁剂 250ml*10件 199元包邮（299-200）</title>
+  <link>http://www.smzdm.com/p/6544671/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>324</docid>
+  <title>Jabra 捷波朗 Eclipse 智能通话蓝牙耳机 557元包邮</title>
+  <link>http://www.smzdm.com/p/6544339/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>325</docid>
+  <title>[Material Playground] Flamingo</title>
+  <link>http://www.phonekr.com/material-playground-flamingo/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>326</docid>
+  <title>Material Design 更新: 动效, 增长与用户教育</title>
+  <link>http://www.phonekr.com/motion-growth-communications/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>327</docid>
+  <title>Bottom Navigation —— 如果要用, 请认真用</title>
+  <link>http://www.phonekr.com/material-bottom-navigation/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>328</docid>
+  <title>So… Happy Birthday, Material!</title>
+  <link>http://www.phonekr.com/so-happy-birthday-material/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>329</docid>
+  <title>Material Design in Action — 哔哩哔哩动画 Android 客户端</title>
+  <link>http://www.phonekr.com/bilibili-for-android-redesign/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>330</docid>
+  <title>你说你看到了沉浸模式，你可能只是见到鬼了</title>
+  <link>http://www.phonekr.com/you_didnt_see_immersive_mode/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>331</docid>
+  <title>发几张 Chromebook Pixel LS 2015 的图片</title>
+  <link>http://www.phonekr.com/chromebook-pixel-ls-2015-gallery/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>332</docid>
+  <title>揭开白色 Nexus 4 的面纱</title>
+  <link>http://www.phonekr.com/unveil-white-nexus-4/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>333</docid>
+  <title>Material Design in Action — 猿题库</title>
+  <link>http://www.phonekr.com/yuan-ti-ku-redesign/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>334</docid>
+  <title>被 ｢阉割｣ 的分享与应用间的墙</title>
+  <link>http://www.phonekr.com/android-share-in-mainland-china/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>335</docid>
+  <title>｢数据? 那是什么? 能吃么? 好吃么?｣</title>
+  <link>http://www.phonekr.com/do-not-get-tricked-by-data/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>336</docid>
+  <title>Overview, Android 中新的 Recents 界面</title>
+  <link>http://www.phonekr.com/overview-is-the-new-recents/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>337</docid>
+  <title>｢质感｣ 的 ｢厚度｣</title>
+  <link>http://www.phonekr.com/material-thickness/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>338</docid>
+  <title>对于 Google 在 iOS 上采用 Material Design 这种事情, 我还是挺欢迎的</title>
+  <link>http://www.phonekr.com/material-design-on-ios/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>339</docid>
+  <title>NovaDNG 2014 年度应用</title>
+  <link>http://www.phonekr.com/best-of-2014/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>340</docid>
+  <title>Android UI 设计工具 (Photoshop, Android 5.0, Nexus 4)</title>
+  <link>http://www.phonekr.com/android-ui-design-kit-5-0-nexus-4/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>341</docid>
+  <title>Google 大概是真的打算放弃 Android 平板了</title>
+  <link>http://www.phonekr.com/android-tablet-is-doomed/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>342</docid>
+  <title>导航抽屉到底归属于哪个层级?</title>
+  <link>http://www.phonekr.com/navigation-drawer-where-does-it-belong/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>343</docid>
+  <title>用户体验为王 —— Android 设计师 Taylor Ling 访谈</title>
+  <link>http://www.phonekr.com/ux-is-king/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>344</docid>
+  <title>MX 4 与联发科</title>
+  <link>http://www.phonekr.com/mx-4-and-mtk/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>345</docid>
+  <title>思源黑体, 一款好用的开源中文字体</title>
+  <link>http://www.phonekr.com/source-han-sans/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>346</docid>
+  <title>Splash Screen 是魔鬼, 不要在你的应用中加入这东西!</title>
+  <link>http://www.phonekr.com/dont-use-splash-screen-on-your-app/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>347</docid>
+  <title>快图浏览开始 Beta 测试啦~</title>
+  <link>http://www.phonekr.com/quickpic-beta-testing/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>348</docid>
+  <title>团队成员的 Android 实用美观小工具推荐(不定期更新)</title>
+  <link>http://www.phonekr.com/android-niceties/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>349</docid>
+  <title>正确的使用 Navigation Drawer</title>
+  <link>http://www.phonekr.com/navigation-drawer-done-right/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>350</docid>
+  <title>小米平板的变数</title>
+  <link>http://www.phonekr.com/mipad/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>351</docid>
+  <title>Android Design in Action —— 以落网为例</title>
+  <link>http://www.phonekr.com/adia-luoo-redesign/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>352</docid>
+  <title>Google Camera 初体验</title>
+  <link>http://www.phonekr.com/google-camera/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>353</docid>
+  <title>Android 弹出窗口与对话框 UI 设计</title>
+  <link>http://www.phonekr.com/android-popup-and-dialog-ui/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>354</docid>
+  <title>小米移动的三驾马车</title>
+  <link>http://www.phonekr.com/mi-troika/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>355</docid>
+  <title>A New Journey</title>
+  <link>http://www.phonekr.com/a-new-journey/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>356</docid>
+  <title>异闻录 21：高难度暴力杀人事件</title>
+  <link>http://www.phonekr.com/tensei-21/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>357</docid>
+  <title>关于未来, 以及一些才不是怎么样都好呢的事情…</title>
+  <link>http://www.phonekr.com/about-my-near-future/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>358</docid>
+  <title>异闻录 20：我们中出了个叛徒</title>
+  <link>http://www.phonekr.com/tensei-20/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>359</docid>
+  <title>异闻录 19：总统，药不能停</title>
+  <link>http://www.phonekr.com/tensei-19/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>360</docid>
+  <title>异闻录 18：猴族危机</title>
+  <link>http://www.phonekr.com/tensei-18/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>361</docid>
+  <title>Save My Time, Save My Life —— Link Bubble</title>
+  <link>http://www.phonekr.com/save-my-time-save-my-life-link-bubble/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>362</docid>
+  <title>Muzei —— 意外之念</title>
+  <link>http://www.phonekr.com/serendipitous-ideas/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>363</docid>
+  <title>Android Design in Action —— 十大导航错误</title>
+  <link>http://www.phonekr.com/navigation-anti-patterns/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>364</docid>
+  <title>极客公园环聊日常 —— 由 IUNI 引发的杂谈</title>
+  <link>http://www.phonekr.com/iuni-and-more/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>365</docid>
+  <title>小朋友的涂鸦（三）：地图的魔术</title>
+  <link>http://songshuhui.net/archives/96601</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>366</docid>
+  <title>小朋友的涂鸦（二）：球面覆盖</title>
+  <link>http://songshuhui.net/archives/96581</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>367</docid>
+  <title>小朋友的涂鸦（一）：从8和9说起</title>
+  <link>http://songshuhui.net/archives/96565</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>368</docid>
+  <title>胃难受？快去考古研究所做个检查，证明你来自未来！</title>
+  <link>http://songshuhui.net/archives/96650</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>369</docid>
+  <title>一分钟看懂2016年诺贝尔化学奖</title>
+  <link>http://songshuhui.net/archives/96628</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>370</docid>
+  <title>一分钟看懂2016年诺贝尔物理学奖</title>
+  <link>http://songshuhui.net/archives/96622</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>371</docid>
+  <title>德国高校研发采矿机器人，安全省钱两不误</title>
+  <link>http://www.leiphone.com/news/201610/zob8fscJXxMkYvrS.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>372</docid>
+  <title>CNCC 2016 | 出门问问李志飞：AI 创业路上的那些坑和机遇</title>
+  <link>http://www.leiphone.com/news/201610/WWKIbKzUk4Gh2J4i.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>373</docid>
+  <title>WRC 2016｜这次RoboCup机器人足球比赛，中外团队差距在哪儿？</title>
+  <link>http://www.leiphone.com/news/201610/U3li2miRcufWbrE6.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>374</docid>
+  <title>段永朝为CSS安全峰会破题：连接赋能 安全升维</title>
+  <link>http://www.leiphone.com/news/201610/yZqgKlrzvU4Eeng3.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>375</docid>
+  <title>Yoli口语：一个美国人的微信生意</title>
+  <link>http://www.leiphone.com/news/201610/ZrLUUomU67afORa9.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>376</docid>
+  <title>潘柱廷：循互联网安全之路，助力CSS峰会连接赋能</title>
+  <link>http://www.leiphone.com/news/201610/LCOD9ZUUtPeBoCJa.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>377</docid>
+  <title>韩国大力度拥抱数字货币，拨款 26 亿美元支持区块链 </title>
+  <link>http://www.leiphone.com/news/201610/Eg7xUHYKXJv4blKz.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>378</docid>
+  <title>打破壁垒玩跨界  黑客大赛GeekPwn上演机器人版“碟中谍”</title>
+  <link>http://www.leiphone.com/news/201610/qWUrG40Xzazk9X8t.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>379</docid>
+  <title>GeekPwn大赛黑客实现远程入侵Aldebaran NAO机器人</title>
+  <link>http://www.leiphone.com/news/201610/r1DJHIYtDFfmGBml.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>380</docid>
+  <title>谷歌和OpenAI开发“学生”算法：AI如何在不接触数据的情况下学习？</title>
+  <link>http://www.leiphone.com/news/201610/wXtcXn9aMYOpIQWu.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>381</docid>
+  <title>数字货币的一大步：Visa合作公司 Chain 宣布进行区块链开源</title>
+  <link>http://www.leiphone.com/news/201610/To1ks6Y6lvSqx7As.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>382</docid>
+  <title>搜狗Q3财报：移动搜索流量同比翻倍，多领域与百度正面竞争</title>
+  <link>http://www.leiphone.com/news/201610/k09mrotpKZoJpkGh.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>383</docid>
+  <title>Uber 无人卡车送货全球首秀！5 万瓶啤酒，跑完 120 英里</title>
+  <link>http://www.leiphone.com/news/201610/h328VgZ77j2OGlUM.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>384</docid>
+  <title>黑客老王：一个人的黑客史</title>
+  <link>http://www.leiphone.com/news/201609/8tAqjCJ79h7A6pHx.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>385</docid>
+  <title>CNCC 2016 | 山世光：深度化的人脸检测与识别技术—进展与展望</title>
+  <link>http://www.leiphone.com/news/201610/rZ2Mn9UFF3x8FaEt.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>386</docid>
+  <title>销售疲软？苹果十五年来首次营收下滑； 微信群新功能：群聊能收钱、进群需确认 | 雷锋早报</title>
+  <link>http://www.leiphone.com/news/201610/ahPH5CNQxCWDUubJ.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>387</docid>
+  <title>MacBook新键盘布局泄露，新产品真的有OLED触控功能了？</title>
+  <link>http://www.leiphone.com/news/201610/Zn8bkekI4NXBdva1.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>388</docid>
+  <title>iPhone 7疲软了？苹果Q4财报十五年来首次营收下滑</title>
+  <link>http://www.leiphone.com/news/201610/yruRWzXlPbl3egeQ.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>389</docid>
+  <title>打败华为小米！2016第三季度OPPO和vivo称霸国内市场</title>
+  <link>http://www.leiphone.com/news/201610/Dbtr4WVqSfbdXQz2.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>390</docid>
+  <title>Beats推出Powerbeats3无线耳机，售价不到200美元</title>
+  <link>http://www.leiphone.com/news/201610/lCyp2hcPTNOu0rSh.html</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>391</docid>
+  <title>Google 发布了一款办公神器，剑指微软的 Surface Hub</title>
+  <link>http://www.ifanr.com/737451?utm_source=rss&utm_medium=rss&utm_campaign=</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>392</docid>
+  <title>为了让你在国外花钱更方便，这些公司也是拼了</title>
+  <link>http://www.ifanr.com/737392?utm_source=rss&utm_medium=rss&utm_campaign=</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>393</docid>
+  <title>“美国滴滴”Lyft CEO 否认公司在售，但靠“补贴大法”还可以撑多久？</title>
+  <link>http://www.ifanr.com/737357?utm_source=rss&utm_medium=rss&utm_campaign=</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>394</docid>
+  <title>逼宫亚马逊，Google Express 又放大招了</title>
+  <link>http://www.ifanr.com/737296?utm_source=rss&utm_medium=rss&utm_campaign=</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>395</docid>
+  <title>柳青说滴滴要展开国际化扩张，但这是一件不容易的事</title>
+  <link>http://www.ifanr.com/737354?utm_source=rss&utm_medium=rss&utm_campaign=</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>396</docid>
+  <title>Uber 自动驾驶全球首秀：193 公里和 5 万罐啤酒的完美征途</title>
+  <link>http://www.ifanr.com/737231?utm_source=rss&utm_medium=rss&utm_campaign=</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>397</docid>
+  <title>瑞典政府：只要带相机的无人机都不能飞！</title>
+  <link>http://www.ifanr.com/737080?utm_source=rss&utm_medium=rss&utm_campaign=</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>398</docid>
+  <title>苹果的汽车操作系统，可能是“黑莓出品”</title>
+  <link>http://www.ifanr.com/737136?utm_source=rss&utm_medium=rss&utm_campaign=</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>399</docid>
+  <title>Google 光纤撂挑子了，超高速网络想说爱你不容易</title>
+  <link>http://www.ifanr.com/737040?utm_source=rss&utm_medium=rss&utm_campaign=</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>400</docid>
+  <title>为了运送 88 包棉花，这两家银行用上了区块链和物联网</title>
+  <link>http://www.ifanr.com/736607?utm_source=rss&utm_medium=rss&utm_campaign=</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>401</docid>
+  <title>刚拿到 5000 万美元的 Hyperloop One，打算再融资 2.5 亿美元</title>
+  <link>http://www.ifanr.com/737087?utm_source=rss&utm_medium=rss&utm_campaign=</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>402</docid>
+  <title>词错率降低至 5.9%，微软今日发布用于语音识别技术的“认知工具包”</title>
+  <link>http://www.ifanr.com/737013?utm_source=rss&utm_medium=rss&utm_campaign=</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>403</docid>
+  <title>美国《消费者报告》汽车可靠性排名出炉，特斯拉沦为垫底之一</title>
+  <link>http://www.ifanr.com/736513?utm_source=rss&utm_medium=rss&utm_campaign=</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>404</docid>
+  <title>几乎确认：新款 MacBook Pro 将搭配 OLED 触控按键和 Touch ID</title>
+  <link>http://www.ifanr.com/737015?utm_source=rss&utm_medium=rss&utm_campaign=</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>405</docid>
+  <title>对话网约车：外地司机的愤怒，京籍司机的尴尬</title>
+  <link>http://www.ifanr.com/736986?utm_source=rss&utm_medium=rss&utm_campaign=</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>406</docid>
+  <title>如果你也和我一样笑不出来 (评论: 你就适可而止吧)</title>
+  <link>https://book.douban.com/review/8132172/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>407</docid>
+  <title>心疼当初那个奋不顾身的自己 (评论: 最初不过你好)</title>
+  <link>https://book.douban.com/review/8134254/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>408</docid>
+  <title>遇见你，才是最好的时光 (评论: 愿所有的姑娘都能嫁给爱情)</title>
+  <link>https://book.douban.com/review/8141697/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>409</docid>
+  <title>编辑，原来也可以很摇滚 。 (评论: 金色梦乡)</title>
+  <link>https://book.douban.com/review/8142275/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>410</docid>
+  <title>像现在这样生活就行，不要嘲笑和瞧不起现在的自己 (评论: 我不过别人指定的生活)</title>
+  <link>https://book.douban.com/review/8141690/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>411</docid>
+  <title>满满一书的唐人风情 (评论: 唐人小说)</title>
+  <link>https://book.douban.com/review/8122102/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>412</docid>
+  <title>最孤独的魂游天外 (评论: 漫长的中场休息)</title>
+  <link>https://book.douban.com/review/8143204/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>413</docid>
+  <title>文学奇境的私人词典 (评论: 想象地名)</title>
+  <link>https://book.douban.com/review/8135672/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>414</docid>
+  <title>遵从天意承受孤独 (评论: 天意)</title>
+  <link>https://book.douban.com/review/8124455/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>415</docid>
+  <title>作者好厉害，能把诺奖理论介绍得如此通俗！ (评论: 合适)</title>
+  <link>https://book.douban.com/review/8124867/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>416</docid>
+  <title>不能忘却的友情 (评论: 我在伦敦买了一头狮子)</title>
+  <link>https://book.douban.com/review/8142219/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>417</docid>
+  <title>一次真正意义上的重生 (评论: 她他)</title>
+  <link>https://book.douban.com/review/8138345/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>418</docid>
+  <title>美国版“铁娘子” (评论: 希拉里)</title>
+  <link>https://book.douban.com/review/8122114/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>419</docid>
+  <title>我想陪你说说家国之外 (评论: 宋末大变局.四川风云  上册)</title>
+  <link>https://book.douban.com/review/8142679/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>420</docid>
+  <title>一本温暖而治愈的友人帐 (评论: 夏目友人帐)</title>
+  <link>https://book.douban.com/review/8127681/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>421</docid>
+  <title>天才的B面 (评论: 凡人)</title>
+  <link>https://book.douban.com/review/8140843/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>422</docid>
+  <title>真我至上：灵魂对肉体的背叛 (评论: 丹麦女孩)</title>
+  <link>https://book.douban.com/review/8130532/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>423</docid>
+  <title>“润物细无声”的习惯养成策略 (评论: 微习惯)</title>
+  <link>https://book.douban.com/review/8134157/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>424</docid>
+  <title>像国王一样吃法国大餐 (评论: 愿上帝保佑法兰西厨子)</title>
+  <link>https://book.douban.com/review/8125359/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>425</docid>
+  <title>可持续发展是资源未来的发展方向 (评论: 图解全球资源真相)</title>
+  <link>https://book.douban.com/review/8142993/</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>426</docid>
+  <title>[转]反对修订《美国联邦刑事诉讼规则和证据规则》第 41 条</title>
+  <link>https://xbeta.info/rule-41.htm</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>427</docid>
+  <title>麦步智能手表试用体验：超长待机是硬道理，开放平台是未来</title>
+  <link>https://xbeta.info/maibu-watch.htm</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>428</docid>
+  <title>【转载+补充】最强免费萤幕录影软体 ActivePresenter 教学影片神器</title>
+  <link>https://xbeta.info/activepresenter.htm</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>429</docid>
+  <title>[已结束]过完节，关爱一下牙齿吧~</title>
+  <link>https://xbeta.info/aiya.htm</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>430</docid>
+  <title>顶级免费看图软件IrfanView v4.41发布：提供平板UI</title>
+  <link>https://xbeta.info/irfanview-v441.htm</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>431</docid>
+  <title>欢迎加入微信：一些准备工作</title>
+  <link>https://xbeta.info/wechat.htm</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>432</docid>
+  <title>Ditto:首选的剪贴板增强软件（更新）</title>
+  <link>https://xbeta.info/ditto.htm</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>433</docid>
+  <title>剪贴板增强软件综述:CLCL,ClipX,Ditto等（更新CLCL v2.0）</title>
+  <link>https://xbeta.info/clipx-clcl-ditto.htm</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>434</docid>
+  <title>RightNote:让Evernote支持树状目录的经典桌面笔记软件</title>
+  <link>https://xbeta.info/rightnote.htm</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>435</docid>
+  <title>极点五笔完整更新历史: v1.0-v7.2内测版（2012-01-16）</title>
+  <link>https://xbeta.info/freewb-history.htm</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>436</docid>
+  <title>在拉斯维加斯，我经历了一场智能化生活的洗礼</title>
+  <link>http://www.geekpark.net/topics/217084</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>437</docid>
+  <title>Quip 模式难以复制，因为中国市场缺的是 Google Docs</title>
+  <link>http://www.geekpark.net/topics/217080</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>438</docid>
+  <title>提醒你出门带伞这件小事，背后是价值百亿的蓝海</title>
+  <link>http://www.geekpark.net/topics/217083</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>439</docid>
+  <title>细数社交巨无霸 Facebook 与美国媒体的「爱恨情仇」</title>
+  <link>http://www.geekpark.net/topics/217081</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>440</docid>
+  <title>OV 销量同时超越华为，苹果放出新 MacBook Pro 真机图 | 2016 年 10 月 26 日</title>
+  <link>http://www.geekpark.net/topics/217079</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>441</docid>
+  <title>一个「无边框」，一个双曲面屏，小米的这两部新手机有些「炸裂」</title>
+  <link>http://www.geekpark.net/topics/217076</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>442</docid>
+  <title>从 iPhone 到自动驾驶，我们所经历的智能化时代</title>
+  <link>http://www.geekpark.net/topics/217074</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>443</docid>
+  <title>「阿拉丁」首届微信小程序创新论坛，在这里方向远比速度重要</title>
+  <link>http://www.geekpark.net/topics/217075</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>444</docid>
+  <title>年轻人的第一款电动牙刷：素士声波牙刷 X3 使用体验</title>
+  <link>http://www.geekpark.net/topics/217070</link>
+  <content></content>
+/<doc>
+<doc>
+  <docid>445</docid>
+  <title>锤子科技草威：从发布 T2 到现在，又是风雨交加的一年</title>
+  <link>http://www.geekpark.net/topics/217071</link>
+  <content></content>
+/<doc>
